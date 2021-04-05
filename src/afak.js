@@ -10,7 +10,7 @@
 
 "use strict";
 
-class ifak
+class afak
 {
 	constructor()
 	{
