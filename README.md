@@ -4,7 +4,7 @@ Modification of the in game item "AFAK" similar to the SuperIFAK mod.
 
 >Author  : jbs4bmx
 
->Version : 1.0.0 (Supports SPT-AKI B8)
+>Version : 1.0.0 (Supports SPT-AKI Bleeding Edge 8.x)
 
 
 
