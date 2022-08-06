@@ -10,7 +10,8 @@ Modification of the in game item "AFAK" similar to the SuperIFAK mod.
 
 
 ## AFAK specifications
-   * HP Resource === 4000
+HP Resource === 4000
+
 |         Heals         |                             Cost                              |
 |:---------------------:|:-------------------------------------------------------------:|
 | Light Bleeding        | 30hp                                                          |
